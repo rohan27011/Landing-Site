@@ -31,7 +31,7 @@ If you already have a GitHub profile (obviously)
 
 Voila! Your site should be live at `https://{username}.github.io`
 
-Here's my **Dev Landing Page** - [Dinesh Pandiyan - v1](https://v1.dineshpandiyan.com/)
+Here's my **Dev Landing Page** - [Rohan  Tiwari - v1](https://v1.dineshpandiyan.com/)
 
 ### Custom Domain
 
@@ -39,4 +39,4 @@ If you want to make your new landing page available under a domain like `{userna
 
 ## License
 
-MIT © Dinesh Pandiyan
+MIT © Rohan Tiwari
